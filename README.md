@@ -24,7 +24,7 @@ Eutrepe is a student-run blog where one can find  articles related to music, lit
 
 
 ##  Features
-1. A login/register form where the user can register
-2. An about section which gives information about the student
-3. A blog section where one read blogs about music, cinema and literature 
-4. A contact page which has an embedded google map and a form for feedback.
+* A login/register form where the user can register
+* An about section which gives information about the student
+* A blog section where one read blogs about music, cinema and literature 
+* A contact page which has an embedded google map and a form for feedback.
